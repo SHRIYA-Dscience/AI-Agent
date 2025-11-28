@@ -112,3 +112,11 @@ Final testing ensures the Smart Trip Agent works smoothly end-to-end.
 ### Flow Chart 
 
 ![alt text](<chart.jpg>)
+
+### Output
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
